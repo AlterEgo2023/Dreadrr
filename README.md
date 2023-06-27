@@ -3,7 +3,7 @@
 - I am currently studying to become a Full Stack Developer 🧑‍🎓
 - Reach me through my Discord Dread#8390 🟢
 
-**Languages :**
+**Languages and Tools :**
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,react,redux,nodejs,linux)](https://skillicons.dev)
